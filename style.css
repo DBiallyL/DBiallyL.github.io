@@ -1,0 +1,21 @@
+/* Title font */
+@font-face {
+	font-family: crucial;
+	src: url(fonts/crucial/Crucial-Medium.otf);
+} 
+
+/* Body font */
+@font-face {
+  font-family: merriweather;
+  src: url(fonts/merriweather/Merriweather-Regular.ttf);
+}
+
+body {
+    font-family: merriweather;
+  }
+  
+h1 {
+font-family: crucial;
+font-size: 4rem;
+margin: 0;
+}
