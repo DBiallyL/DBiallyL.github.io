@@ -24,7 +24,7 @@ h1 {
   font-weight: bold;
 }
 
-h2 {
+.section-title {
   background-color: rgb(105, 92, 249);
   color: rgb(237, 237, 237);
 }
