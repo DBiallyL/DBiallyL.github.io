@@ -21,5 +21,6 @@ margin: 0;
 } */
 
 header {
-  background-color: rgb(105, 92, 249)
+  background-color: rgb(105, 92, 249);
+  color: rgb(237, 237, 237);
 }
