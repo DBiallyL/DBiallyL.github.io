@@ -29,6 +29,11 @@ margin: 0;
   /* color: rgb(202, 202, 202); */
 }
 
-a {
-  color: rgb(177, 171, 249);
+a:link {
+  text-decoration: none;
+  color: rgb(84, 69, 247);
+}
+
+a:hover {
+  color: rgb(132, 122, 253);
 }
