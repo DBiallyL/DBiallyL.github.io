@@ -24,6 +24,10 @@ margin: 0;
   font-weight: 550;
 }
 
+.display-3 {
+  font-size: 2em;
+}
+
 .section-title {
   background-color: rgb(177, 171, 249);
   /* color: rgb(202, 202, 202); */
