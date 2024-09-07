@@ -21,7 +21,7 @@ margin: 0;
 } */
 
 .display-2 {
-  font-weight: 650;
+  font-weight: 600;
 }
 
 .section-title {
@@ -31,8 +31,6 @@ margin: 0;
 
 a {
   color: rgb(84, 69, 247);
-  font-weight: 400;
-  text-decoration: none;
 }
 
 a:hover {
