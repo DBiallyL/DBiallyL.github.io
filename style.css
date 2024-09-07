@@ -20,15 +20,15 @@ font-size: 4rem;
 margin: 0;
 } */
 
-.display-1 {
+.display-2 {
   font-weight: 550;
-}
-
-.display-3 {
-  font-size: 2em;
 }
 
 .section-title {
   background-color: rgb(177, 171, 249);
   /* color: rgb(202, 202, 202); */
+}
+
+a {
+  color: rgb(177, 171, 249)
 }
