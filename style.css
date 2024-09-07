@@ -21,7 +21,7 @@ margin: 0;
 } */
 
 .display-2 {
-  font-weight: 550;
+  font-weight: 700;
 }
 
 .section-title {
@@ -30,5 +30,5 @@ margin: 0;
 }
 
 a {
-  color: rgb(177, 171, 249)
+  color: rgb(177, 171, 249);
 }
